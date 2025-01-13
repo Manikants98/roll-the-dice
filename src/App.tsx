@@ -94,7 +94,7 @@ function App() {
             </p>
           </div>
 
-          <div className="grid gap-10 grid-cols-5">
+          <div className="grid gap-8 lg:gap-10 grid-cols-5">
             {dices?.map((i, index) => {
               return (
                 <button
