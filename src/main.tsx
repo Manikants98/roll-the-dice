@@ -6,7 +6,7 @@ import EmployeeManagementApp from "./Employee/index.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <EmployeeManagementApp />
-    {/* <App /> */}
+   {/* <EmployeeManagementApp />*/}
+     <App /> 
   </StrictMode>
 );
